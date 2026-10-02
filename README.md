@@ -1,3 +1,7 @@
+> [!WARNING]
+> **Deprecated — superseded.** This repository is archived and no longer maintained.
+> Its work is being absorbed into [agenthalt](https://github.com/agentsec-ecosystem/agenthalt) as part of the [agentsec-ecosystem](https://github.com/agentsec-ecosystem).
+
 # ai-loopguard
 
 [![CI](https://github.com/deghosal-2026/ai-loopguard/actions/workflows/ci.yml/badge.svg)](https://github.com/deghosal-2026/ai-loopguard/actions/workflows/ci.yml)
